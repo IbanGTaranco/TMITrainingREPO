@@ -1,1 +1,5 @@
-# Hello IGT
+class ClassName(<#OptionalParameters#>) {
+	ClassName
+} {
+	# Hello IGT
+}
