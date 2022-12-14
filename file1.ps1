@@ -1,5 +1,1 @@
-class ClassName(<#OptionalParameters#>) {
-	ClassName
-} {
-	# Hello IGT
-}
+# Hello IGT
